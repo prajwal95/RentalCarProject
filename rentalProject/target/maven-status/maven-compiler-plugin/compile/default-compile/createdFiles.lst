@@ -1,0 +1,14 @@
+prajwal\rentalProject\entity\Tire.class
+prajwal\rentalProject\repository\CarRepo.class
+prajwal\rentalProject\SwaggerConfig.class
+prajwal\rentalProject\App.class
+prajwal\rentalProject\controller\CarController.class
+prajwal\rentalProject\service\CarServiceImpl.class
+prajwal\rentalProject\service\CarService.class
+prajwal\rentalProject\service\ReadingRepo.class
+prajwal\rentalProject\exception\NotFoundRes.class
+prajwal\rentalProject\entity\Car.class
+prajwal\rentalProject\entity\Reading.class
+prajwal\rentalProject\service\ReadServiceImpl.class
+prajwal\rentalProject\controller\ReadingController.class
+prajwal\rentalProject\service\ReadService.class
